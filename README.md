@@ -14,6 +14,7 @@ The goal of this repository is to provide **simple and clear Java solutions** fo
 * Loops
 * Pattern problems
 * Basic logic building exercises
+* Added Sorting Problems 
 
 In the future, more problems will be added including **math problems and logical reasoning problems**.
 
