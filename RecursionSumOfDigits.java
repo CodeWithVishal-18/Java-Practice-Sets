@@ -12,6 +12,6 @@ public class RecursionSumOfDigits {
         System.out.println("Enter the number --> ");
         int num=sc.nextInt();
         int result=sumOfDigits(num);
-        System.out.println("Sum of Digits of "+num+" is "+result);
+        System.out.println("Sum of Digits of this "+num+" is "+result);
     }
 }
