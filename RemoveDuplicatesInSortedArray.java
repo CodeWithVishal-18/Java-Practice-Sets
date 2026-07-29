@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class RemoveDuplicatesInSortedArray {
-
     public static int removeDuplicate(int[] nums){
         int count=0;
         for(int i=1;i<nums.length-1;i++){
