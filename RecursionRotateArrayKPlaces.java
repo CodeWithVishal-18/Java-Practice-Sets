@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class RecursionRotateArrayKPlaces {
-
     public static void rotateArray(int[] nums,int k){
         int size=nums.length;
         k=k%size;
